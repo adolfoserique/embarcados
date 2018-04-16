@@ -1,0 +1,39 @@
+1) O que são sistemas embarcados?
+
+R: Sistemas embarcados são sistemas computacionais completos e mais simplificado (ecapsulados) que um computador comum, capaz de executar tarefas pré-determinadas com
+requisitos específicos.
+
+
+2) O que são sistemas microprocessados?
+
+R: Um sistema microprocessado é um sistema que possui um microprocessador, no qual é responsável pela execução das instruções num sistema, trabalhando com uma unidade
+lógica aritmética e registradores para realizar as operações.
+
+
+3) Apresente aplicações de sistemas embarcados:
+
+  a) Para indústria automotiva.
+
+R: Alarmes, sistema de ABS e Air Bag, control de tração, controle de motor e injeção eletrônica, entre outros. 
+
+  b) Para eletrodomésticos.
+
+R: Controle de temperatura para geladeira, temporizador de microondas, controle de rotação em liquidificadores, entre outros.
+
+  c) Para automação industrial.
+
+R: Controle de diferentes robos para atividades específicas, controle de manunteção, entre outros.
+
+
+4) Cite arquiteturas possíveis e as diferenças entre elas.
+
+R: Arquiteturas possíveis como CISC e RISC. RISC significa Reduced Instruction Set Computer (Computador Com Conjunto de Instruções Reduzido). Neste tipo de arquitetura,
+o microcontrolador faz tudo usando poucas instruções básicas que são combinadas de acordo com o que se deseja que ele faça.
+
+Em contrapartida a arquitetuira RISC existe a CISC (Complex Instruction Set Computer ou Computador com Conjunto de Instruções Complexo) que usa uma grande quandidade
+de instruções para operar. Estes computadores são mais poderosos, mas mais lentos por precisarem de vários ciclos de clock para executar algumas instruções.
+
+
+5) Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
+
+R: Porque é um computador que utiliza uma linguem simples de fácil programação, tornando-o bem ditático para as atividades de aula.
